@@ -1,0 +1,170 @@
+SCC = This is a Source Code Control file.
+
+[InsurManageClient.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/03项目源码/InsurManageClient
+
+[InsurManageClient.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/03项目源码/InsurManageClient/InsurManageClient
+
+[Server.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/03项目源码/Server111
+
+[Server.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/03项目源码/Server111/Server
+
+[FoodBevManage.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/FoodBevManage
+
+[FoodBevManage.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/FoodBevManage
+
+[FoodBevManage.dsp]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/FoodBevManage
+
+[MyClient.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyClient
+
+[MyClient.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyClient
+
+[ClientSocket.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyProjects/ClientSocket
+
+[ClientSocket.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyProjects/ClientSocket
+
+[ClientSocket.dsp]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyProjects/ClientSocket
+
+[SocketServer.dsp]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyProjects/SocketServer
+
+[SocketServer.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyProjects/SocketServer
+
+[SocketServer.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team01/05其他资料/MyProjects/SocketServer
+
+[InsuranceSystem722.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team02/03项目源码/InsuranceSystemClient
+
+[InsuranceSystem722.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team02/03项目源码/InsuranceSystemClient/InsuranceSystem722
+
+[InsuranceSystemServer.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team02/03项目源码/旧版  不用了
+
+[InsuranceSystemServer.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team02/03项目源码/旧版  不用了/InsuranceSystemServer
+
+[VehicleInsurance.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team03/03项目源码/VehicleInsurance
+
+[VehicleInsuranceClient.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team03/03项目源码/VehicleInsurance/VehicleInsuranceClient
+
+[VehicleInsuranceSever.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team03/03项目源码/VehicleInsurance/VehicleInsuranceSever
+
+[CarAssuranceSysServer.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team04/03项目源码/CarAssuranceSysServer
+
+[CarAssuranceSysServer.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team04/03项目源码/CarAssuranceSysServer/CarAssuranceSysServer
+
+[CarAssuranceSystemClient.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team04/03项目源码/CarAssuranceSystemClient
+
+[CarAssuranceSystemClient.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team04/03项目源码/CarAssuranceSystemClient/CarAssuranceSystemClient
+
+[InsuranceClient.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team05/03项目源码/InsuranceClient/InsuranceClient
+
+[InsuranceClient.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team05/03项目源码/InsuranceClient
+
+[InsuranceServer.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team05/03项目源码/InsuranceServer
+
+[InsuranceServer.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team05/03项目源码/InsuranceServer/InsuranceServer
+
+[VehicleInsuranceServer.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team06/03项目源码/VehicleInsuranceServer
+
+[VehicleInsuranceServer.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team06/03项目源码/VehicleInsuranceServer/VehicleInsuranceServer
+
+[VehicleInsuranceSystem.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team06/03项目源码/VehicleInsuranceSystem
+
+[VehicleInsuranceSystem.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team06/03项目源码/VehicleInsuranceSystem/VehicleInsuranceSystem
+
+[Vehicle_Insurance.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team07/03项目源码/Vehicle_Insurance
+
+[Vehicle_Insurance_Client.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team07/03项目源码/Vehicle_Insurance/Vehicle_Insurance_Client
+
+[Vehicle_Insurance_Daemon.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team07/03项目源码/Vehicle_Insurance/Vehicle_Insurance_Daemon
+
+[Vehicle_Insurance_Server.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team07/03项目源码/Vehicle_Insurance/Vehicle_Insurance_Server
+
+[CarInsurance.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team08/03项目源码/VechileInsuranceClient04
+
+[CarInsurance.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team08/03项目源码/VechileInsuranceClient04/CarInsurance
+
+[VechileInsuranceServer.sln]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team08/03项目源码/VechileInsuranceServer02
+
+[VechileInsuranceServer.vcproj]
+SCC_Aux_Path = 192.168.181.245:8877:东大2014
+SCC_Project_Name = $/车辆保险系统/team08/03项目源码/VechileInsuranceServer02/VechileInsuranceServer
+
